@@ -1,2 +1,2 @@
-# dive-into-ml
-principle and inplementation of machine learning algorithms
+# algorithm notes
+principle and inplementation of algorithms
